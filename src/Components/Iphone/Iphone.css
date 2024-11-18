@@ -1,0 +1,14 @@
+.link-wrapper ul {
+  list-style-type: none;
+}
+
+.learn-more {
+  color: #007aff;
+}
+
+.learn-more:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}

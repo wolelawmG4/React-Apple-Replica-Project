@@ -1,0 +1,15 @@
+.title-wrapper {
+  text-align: center;
+}
+.col-md-6 {
+  padding-left: 15;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.videoInfoWrapper {
+  background-color: #f3f2f2;
+}
+.img {
+  min-width: 100%;
+}
