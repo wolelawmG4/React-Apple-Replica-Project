@@ -1,6 +1,6 @@
 import "./commonResource/css/bootstrap.css";
 import "./commonResource/css/styles.css";
-import "./commonResource/js/bootstrap";
+// import "./commonResource/js/bootstrap";
 import Header from "./Components/Header/Header";
 import Footer from "./Components/Footer/Footer";
 import Alert from "./Components/Alert/Alert";
@@ -19,7 +19,7 @@ import IpadPage from "./Components/IpadPage/Ipad";
 import WatchPage from "./Components/WatchPage/watchPage";
 import TvPage from "./Components/TvPage/tvPage";
 import MusicPAge from "./Components/MusicPage/MusicPage";
-import SupportPage from "./Components/SupportPage/SupportPAge";
+import SupportPage from "./Components/SupportPage/SupportPage";
 import SearchPage from "./Components/SearchPage/SearchPage";
 import CartPage from "./Components/CartPage/CartPage";
 
